@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fluffy-login/static/css/main.f57e010d.chunk.css",
+    "main.js": "/fluffy-login/static/js/main.d5a64cc3.chunk.js",
+    "main.js.map": "/fluffy-login/static/js/main.d5a64cc3.chunk.js.map",
+    "runtime-main.js": "/fluffy-login/static/js/runtime-main.32a6d7b2.js",
+    "runtime-main.js.map": "/fluffy-login/static/js/runtime-main.32a6d7b2.js.map",
+    "static/js/2.115aa68b.chunk.js": "/fluffy-login/static/js/2.115aa68b.chunk.js",
+    "static/js/2.115aa68b.chunk.js.map": "/fluffy-login/static/js/2.115aa68b.chunk.js.map",
+    "index.html": "/fluffy-login/index.html",
+    "static/css/main.f57e010d.chunk.css.map": "/fluffy-login/static/css/main.f57e010d.chunk.css.map",
+    "static/js/2.115aa68b.chunk.js.LICENSE.txt": "/fluffy-login/static/js/2.115aa68b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a6d7b2.js",
+    "static/js/2.115aa68b.chunk.js",
+    "static/css/main.f57e010d.chunk.css",
+    "static/js/main.d5a64cc3.chunk.js"
+  ]
+}
